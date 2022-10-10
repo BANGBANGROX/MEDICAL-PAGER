@@ -1,5 +1,6 @@
 export { default as ChannelListContainer } from "./ChannelListContainer";
 export { default as ChannelContainer } from "./ChannelContainer";
-export { default as ThemeChannelPreview } from "./ThemeChannelPreview";
-export { default as ThemeChannelList } from "./ThemeChannelList";
+export { default as TeamChannelPreview } from "./TeamChannelPreview";
+export { default as TeamChannelList } from "./TeamChannelList";
 export { default as ChannelSearch } from "./ChannelSearch";
+export { default as Auth } from "./Auth";
